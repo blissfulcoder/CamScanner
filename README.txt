@@ -1,1 +1,1 @@
-This is python implementation of CamScanner Algorithm with live testing and experiments perfomed on it.
+This is python implementation of CamScanner Algorithm with live testing and experiments performed on it.
